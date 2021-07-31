@@ -1,4 +1,4 @@
-# Algoritmos
+# Android-Jetpack compose
 Treinamento em Lógica de Programação
 
 Um algoritmo é uma sequência finita de acções executáveis que visam obter uma solução para um determinado tipo de problema.
